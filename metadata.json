@@ -1,0 +1,6 @@
+{
+  "name": "UrTutorsBD – Premium Education & Tuition Management Platform",
+  "description": "UrTutorsBD connects qualified university student and professional tutors with guardians across Bangladesh. Verified tutors, tuition matching, bKash/Nagad payment, and comprehensive dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
